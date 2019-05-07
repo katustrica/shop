@@ -1,0 +1,26 @@
+C:\Users\musa\source\repos\Shop\Shop\bin\Debug\Shop.exe.config
+C:\Users\musa\source\repos\Shop\Shop\bin\Debug\Shop.exe
+C:\Users\musa\source\repos\Shop\Shop\bin\Debug\Shop.pdb
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.Form1.resources
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.exe
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.pdb
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.Form2.resources
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.Form3.resources
+C:\Users\musa\source\repos\Shop\Shop\obj\Debug\Shop.Form5.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\bin\Debug\Shop.exe.config
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\bin\Debug\Shop.exe
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\bin\Debug\Shop.pdb
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.Form1.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.Form2.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.Form3.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.Form5.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.Properties.Resources.resources
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.exe
+\\Mac\Home\Desktop\Минахметов 09-611\Shop\Shop\obj\Debug\Shop.pdb
